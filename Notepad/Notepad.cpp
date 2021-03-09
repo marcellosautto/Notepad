@@ -34,7 +34,7 @@ bool main()
 Notepad::Notepad()
 {
 	menu = GetStdHandle(STD_OUTPUT_HANDLE);
-	filein.open("C:\\temp\\output.text");
+	filein.open("C:\\output.text");
 	var = ' ';
 	x = 0, y = 13;
 	rowNum = 0;
@@ -188,7 +188,7 @@ void Notepad::loadFile()
 }//SAVES LINKED LIST TO TEXT FILE
 void Notepad::saveFile()
 {
-	fileout.open("C:\\temp\\output.text");
+	fileout.open("C:\\output.text");
 	for (int i = 0; i < 10; i++)
 	{
 		if (rows[i] != nullptr)

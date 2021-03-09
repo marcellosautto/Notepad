@@ -1,3 +1,3 @@
 ﻿  Notepad.cpp
-C:\Users\marce\OneDrive\Desktop\VS Projects\Notepad\Notepad\Notepad.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'bool'
-  Notepad.vcxproj -> C:\Users\marce\OneDrive\Desktop\VS Projects\Notepad\Debug\Notepad.exe
+C:\Users\marce\Desktop\VS_Projects\Notepad\Notepad\Notepad.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'bool'
+  Notepad.vcxproj -> C:\Users\marce\Desktop\VS_Projects\Notepad\Debug\Notepad.exe

@@ -1,0 +1,8 @@
+﻿  Notepad.cpp
+C:\Users\marce\Desktop\VS_Projects\Notepad\Notepad\Notepad.cpp(11,1): warning C4326: return type of 'main' should be 'int' instead of 'bool'
+  Generating code
+  5 of 161 functions ( 3.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Notepad.vcxproj -> C:\Users\marce\Desktop\VS_Projects\Notepad\Release\Notepad.exe
